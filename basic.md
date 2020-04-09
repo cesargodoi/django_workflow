@@ -17,6 +17,7 @@ Esse comando vai gerar a seguinte estrutura de diretórios e arquivos:
 ## Ajustar o arquivo settings.py  
 
 ### configurações gerais
+
     TIME_ZONE = 'America/Sao_Paulo'  
     ...  
     LANGUAGE_CODE = 'pt-BR'

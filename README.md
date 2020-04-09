@@ -2,11 +2,16 @@
 
 ---
 
-Este documento visa auxiliar os iniciantes em Django a formar um fluxo de trabalho no framework.
-Usamos a versão `3.0.5` do **[Django](https://www.djangoproject.com/)**
+Este documento visa auxiliar os iniciantes em Django a formar um fluxo de trabalho no framework.   
 
 ## Tópicos abordados
 
-1. **[O ambiente virtual de desenvolvimento](virtual_env.md)**
-2. **[O básico do Django](basic.md)**
-3. **[Trabalhando com models.py](models.md)**
+- **[O ambiente virtual de desenvolvimento](virtual_env.md)**
+- **[O básico do Django](basic.md)**
+- **[Trabalhando com models.py](models.md)**
+
+
+## Versões usadas
+
+**[python -> 3.8.1](https://docs.python.org/pt-br/3/)**
+**[Django -> 3.0.5](https://www.djangoproject.com/)**
