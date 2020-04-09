@@ -13,5 +13,5 @@ Este documento visa auxiliar os iniciantes em Django a formar um fluxo de trabal
 
 ## Versões usadas
 
-**[python -> 3.8.1](https://docs.python.org/pt-br/3/)**
-**[Django -> 3.0.5](https://www.djangoproject.com/)**
+**[python -> 3.8.1](https://docs.python.org/pt-br/3/)**  
+**[Django -> 3.0.5](https://www.djangoproject.com/)**  
