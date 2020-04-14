@@ -63,7 +63,6 @@ Isso vai adicionar a seguinte estrutura ao nosso diretório raiz:
         │       │       └── __init__.py
         │       ├── models.py
         │       ├── tests.py
-        |       ├── urls.py
         │       └── views.py
         ├── db.sqlite3
         ├── manage.py
@@ -83,5 +82,5 @@ Após isso, precisamos adicionar a aplicação na lista de aplicações instalad
         'django.contrib.sessions',
         'django.contrib.messages',
         'django.contrib.staticfiles',
-        'nome_do_app',  # <---- aqui vai o nome da aplicação
+        'nome_do_app',  <---- aqui vai o nome da aplicação
     ]
